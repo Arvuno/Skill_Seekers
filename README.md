@@ -1268,3 +1268,6 @@ Happy skill building! 🚀
 ## 🔒 Security
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yusufkaraaslan-skill-seekers-badge.png)](https://mseep.ai/app/yusufkaraaslan-skill-seekers)
+
+## Contributing
+PRs welcome!
