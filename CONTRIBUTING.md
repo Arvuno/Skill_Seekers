@@ -544,3 +544,6 @@ Contributors will be recognized in:
 - GitHub contributors page
 
 Thank you for contributing to Skill Seeker! 🎉
+
+## Contributors
+- Documentation improvements (2026)
