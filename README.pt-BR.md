@@ -663,7 +663,7 @@ skill-seekers-setup
 
 > **Dependências visuais de vídeo (detecção de GPU):** Após instalar `skill-seekers[video-full]`, execute
 > `skill-seekers video --setup` para detectar automaticamente sua GPU e instalar a variante
-> correta do PyTorch + easyocr. Esta é a forma recomendada de instalar as dependências de extração visual.
+> correta do PyTorch + easyocr. Esta é a forma recommendada de instalar as dependências de extração visual.
 
 ---
 
@@ -853,7 +853,7 @@ skill-seekers unified --config configs/myframework_unified.json
 **Compartilhe configs personalizadas entre equipes usando repositórios Git privados:**
 
 ```bash
-# Opção 1: Usando ferramentas MCP (recomendado)
+# Opção 1: Usando ferramentas MCP (recommendado)
 # Registre o repositório privado da sua equipe
 add_config_source(
     name="team",
